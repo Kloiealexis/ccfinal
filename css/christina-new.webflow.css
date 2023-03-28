@@ -1430,6 +1430,10 @@ figcaption {
     text-align: center;
   }
 
+  .container {
+    margin-top: 28px;
+  }
+
   .button {
     justify-content: center;
   }
@@ -1844,6 +1848,7 @@ figcaption {
   }
 
   .container {
+    margin-top: 23px;
     text-align: center;
   }
 
@@ -1893,6 +1898,7 @@ figcaption {
   }
 
   .intro-header {
+    height: 600px;
     margin-top: -25px;
   }
 
@@ -1994,11 +2000,13 @@ figcaption {
   .text-block {
     margin-right: -47px;
     margin-left: -47px;
+    font-family: Arimo, sans-serif;
     font-size: 15px;
     line-height: 15px;
   }
 
   .section-2 {
+    margin-top: -190px;
     -ms-grid-columns: 0.25fr 1fr 0.25fr;
     grid-template-columns: 0.25fr 1fr 0.25fr;
   }
@@ -2327,12 +2335,13 @@ figcaption {
   }
 
   .text-block {
+    font-family: Arimo, sans-serif;
     font-size: 15px;
     text-align: center;
   }
 
   .section-2 {
-    margin-top: -194px;
+    margin-top: -187px;
   }
 
   .image-4 {

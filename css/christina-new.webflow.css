@@ -2266,6 +2266,7 @@ figcaption {
   }
 
   .intro-header {
+    height: 600px;
     margin-right: -21px;
   }
 
@@ -2331,7 +2332,7 @@ figcaption {
   }
 
   .section-2 {
-    margin-top: -111px;
+    margin-top: -194px;
   }
 
   .image-4 {

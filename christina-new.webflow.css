@@ -1322,7 +1322,7 @@ figcaption {
 }
 
 .section-3 {
-  margin-top: 125px;
+  margin-top: 100px;
 }
 
 .image-12 {
@@ -1341,7 +1341,7 @@ figcaption {
 }
 
 .section-5 {
-  height: 270px;
+  height: 500px;
   margin-top: -56px;
   border-style: solid;
   border-width: 0px;
@@ -1358,11 +1358,9 @@ figcaption {
   border-color: #ccc7b9;
   font-family: Arimo, sans-serif;
   color: #fff;
-  line-height: 25px;
 }
 
 .link {
-  margin-top: 0px;
   color: #fff;
   text-decoration: none;
 }
@@ -1380,20 +1378,19 @@ figcaption {
 
 .image-13 {
   display: block;
-  margin-top: 92px;
+  margin-top: 140px;
   margin-right: auto;
   margin-left: auto;
 }
 
 .paragraph-4 {
-  overflow: visible;
   max-height: 12px;
-  margin-top: -62px;
+  margin-top: -100px;
   margin-right: auto;
   margin-left: auto;
   font-family: Arimo, sans-serif;
-  font-size: 8px;
-  line-height: 8px;
+  font-size: 12px;
+  line-height: 15px;
   text-align: center;
   -o-object-fit: fill;
   object-fit: fill;
@@ -1782,7 +1779,7 @@ figcaption {
   }
 
   .section-5 {
-    height: 220px;
+    height: 280px;
   }
 
   .paragraph-5 {
@@ -1805,7 +1802,7 @@ figcaption {
   }
 
   .image-5 {
-    height: 80px;
+    height: 40px;
     margin-top: -180px;
   }
 
@@ -1814,24 +1811,71 @@ figcaption {
     left: auto;
     right: auto;
     display: block;
-    margin-top: 93px;
+    margin-top: 140px;
     margin-right: auto;
     margin-left: auto;
   }
 
   .paragraph-4 {
-    margin-top: -65px;
     margin-left: -10px;
-    color: #908a82;
-    font-size: 8px;
-    line-height: 8px;
+	  margin-top: -100px;
+    color: #FFFFFF
+;
   }
 
   .div-block {
     margin-top: -52px;
   }
 }
+.section-5 {
+    height: 280px;
+  }
 
+  .paragraph-5 {
+    position: relative;
+    top: 15px;
+    margin-top: 0px;
+    outline-color: #fff;
+    outline-offset: 0px;
+    outline-style: none;
+    outline-width: 3px;
+    color: #fff;
+    line-height: 16px;
+    text-decoration: none;
+    white-space: normal;
+  }
+
+  .link {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .image-5 {
+    height: 40px;
+    margin-top: -180px;
+  }
+
+  .image-13 {
+    position: relative;
+    left: auto;
+    right: auto;
+    display: block;
+    margin-top: 140px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .paragraph-4 {
+    margin-left: -10px;
+	  margin-top: -100px;
+    color: #FFFFFF
+;
+  }
+
+  .div-block {
+    margin-top: -52px;
+  }
+}
 @media screen and (max-width: 767px) {
   .section {
     margin-right: 15px;
@@ -2178,25 +2222,24 @@ figcaption {
   }
 
   .section-5 {
-    height: 180px;
+    height: 230px;
     margin-top: -111px;
-    margin-bottom: -108px;
+    margin-bottom: -140px;
   }
 
   .paragraph-5 {
     position: relative;
     top: 7px;
-    height: 160px;
     margin-top: 96px;
     font-size: 12px;
-    line-height: 14px;
+    line-height: 17px;
   }
 
   .image-5 {
     position: static;
     left: -416px;
     display: block;
-    height: 60px;
+    height: 40px;
     margin: -184px 10px auto auto;
   }
 
@@ -2206,17 +2249,17 @@ figcaption {
     top: auto;
     width: 20px;
     height: 20px;
-    margin-top: 106px;
+    margin-top: 140px;
     margin-left: auto;
   }
 
   .paragraph-4 {
     position: relative;
-    top: 25px;
+    top: 6px;
     right: -7px;
-    margin-top: -77px;
-    font-size: 7px;
-    line-height: 7px;
+    margin-top: -100px;
+    font-size: 10px;
+    line-height: 12px;
   }
 
   .button-7 {
@@ -2228,6 +2271,7 @@ figcaption {
     font-size: 15px;
   }
 }
+
 
 @media screen and (max-width: 479px) {
   h1 {
@@ -2589,14 +2633,14 @@ figcaption {
   }
 
   .section-5 {
-    height: 150px;
+    height: 200px;
     margin-top: -131px;
     margin-bottom: auto;
   }
 
   .paragraph-5 {
     height: 100px;
-    margin-top: 39px;
+    margin-top: 20px;
     margin-left: 9px;
     font-size: 10px;
     line-height: 10px;
@@ -2609,15 +2653,14 @@ figcaption {
   }
 
   .image-13 {
-    margin-top: 88px;
     margin-left: auto;
+	  margin-top: 140px;
   }
 
   .paragraph-4 {
-    top: 24px;
-    margin-top: -71px;
-    font-size: 6px;
-    line-height: 6px;
+    margin-top: -100px;
+    font-size: 8px;
+    line-height: 10px;
   }
 
   .button-7 {
